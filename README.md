@@ -1,4 +1,4 @@
-# Hi, I'm Tejas Anand 👋
+# Hi, I'm Tejas  👋
 
 🎓 Computer Science Engineering Student
 
