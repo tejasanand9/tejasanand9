@@ -1,4 +1,35 @@
+# Hi, I'm Tejas Anand 👋
 
+🎓 Computer Science Engineering Student
+
+💻 Currently learning:
+- C
+- Python
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+
+🚀 Interested in:
+- Software Development
+- Web Development
+- Artificial Intelligence
+
+## 📚 Currently Learning
+
+- Programming fundamentals
+- Data Structures
+- Web Development
+- Git & GitHub
+
+## 🚀 Projects
+
+Coming soon...
+
+## 🔗 Connect with me
+
+- LinkedIn
+- Portfolio
+- Email
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tejas A) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tejas .A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejasanand0001@gmail.com) 
 
